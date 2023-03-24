@@ -1,4 +1,4 @@
-package com.example.weather_forecast;
+package com.wf.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

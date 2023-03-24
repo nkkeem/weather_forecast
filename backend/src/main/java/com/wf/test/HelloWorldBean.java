@@ -1,4 +1,4 @@
-package com.example.weather_forecast;
+package com.wf.test;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

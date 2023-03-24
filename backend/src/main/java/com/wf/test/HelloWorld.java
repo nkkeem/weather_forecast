@@ -1,4 +1,4 @@
-package com.example.weather_forecast;
+package com.wf.test;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
