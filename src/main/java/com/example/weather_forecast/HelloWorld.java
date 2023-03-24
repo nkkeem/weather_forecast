@@ -10,7 +10,7 @@ public class HelloWorld {
 
     @GetMapping(path = "/datetime2")
     public String helloWorld() {
-        return "현재 시간은 " + new Date() + "입니다.";
+        return "현재 시간은 " + new Date() + "입니다!";
     }
 
     @GetMapping(path = "hello-world-bean")
