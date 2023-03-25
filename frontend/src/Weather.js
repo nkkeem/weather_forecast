@@ -18,7 +18,7 @@ function Weather() {
         loading: true,
     });
 //    const [weather, setWeather] = useState([]);
-    const apiKey = 'e7c9077a8f3c0c3a940e800183f49992';
+    const apiKey = 'Enter your api key';
 
     useEffect(() => {
         if(!location) return;
