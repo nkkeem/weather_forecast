@@ -1,4 +1,4 @@
-package com.wf.test;
+package java.com.nkkeem.wf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
